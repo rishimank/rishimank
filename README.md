@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/peter-kurto-870660250">
+  <a href="https://linkedin.com/in/rishimankala/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 - 💻 CS Freshman @ Purdue  
-- 🌱 Learning full stack development & ML  
+- 🌱 Learning full stack development, ML, and SWE cryptocurrency  
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
 - 🚀 Always building, learning, and trying something new  
 
@@ -26,7 +26,6 @@
 <div align="center">
 
 ### **💡 Languages, Frameworks & Tools**
-<sub>*(clean rounded cards layout)*</sub>
 
 <br />
 
@@ -94,7 +93,7 @@
 
 ## 📈 What I'm Working On
 - Enhancing my full-stack skills  
-- Learning more about cloud & ML  
+- Learning more about ML and cryptocurrency within SWE  
 - Building projects to grow my portfolio  
 
 ---
