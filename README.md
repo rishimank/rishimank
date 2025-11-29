@@ -1,8 +1,4 @@
-@@ -1,88 +1,80 @@
 # Hey there 👋
-<div align="center">
-  <img width="1512" alt="Screenshot 2024-12-23 at 1 53 08 AM" src="https://github.com/user-attachments/assets/37e3508c-5a73-43e8-a205-4a5e1d1cfbbe" />
-</div>
 
 ###
 
@@ -20,11 +16,10 @@
 
 ## About Me
 
-I'm Peter Kurto, a Full-Stack Software Developer at Purdue University
+I'm **Rishi Mankala**, a Full-Stack Software Developer at Purdue University
 
-- 🔭 Currently working on [X Parks the Spot](https://xpark-staging.ersei.net/) (iOS Only PWA). Try it out by opening the link on an IOS device, add to home screen and use as an app.
-- 🌱 Learning golang
-- 📫 Reach me at: ptkurto3@gmail.com | pkurto@purdue.edu
+- 🌱 Learning full stack development  
+- 📫 Reach me at: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
 
 ## Languages and Tools
 
@@ -111,3 +106,4 @@ I'm Peter Kurto, a Full-Stack Software Developer at Purdue University
 </div>
 
 ## GitHub Stats
+
