@@ -3,20 +3,14 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/peter-kurto-870660250">
+  <a href="https://linkedin.com/in/rishimankala">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.leetcode.com/pkurto16">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
-  </a>
-  <a href="https://pkurto.com">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
   </a>
 </div>
 
 ## About Me
 
-I'm **Rishi Mankala**, a Full-Stack Software Developer at Purdue University
+I'm **Rishi Mankala**, a freshman studying Computer Science at Purdue University, always trying to learn new things!
 
 - 🌱 Learning full stack development  
 - 📫 Reach me at: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
@@ -104,6 +98,3 @@ I'm **Rishi Mankala**, a Full-Stack Software Developer at Purdue University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo" />
 </div>
-
-## GitHub Stats
-
