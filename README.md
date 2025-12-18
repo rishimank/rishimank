@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 - 💻 CS Freshman @ Purdue  
-- 🌱 Learning full stack development, ML, and SWE cryptocurrency  
+- 🌱 Learning full stack development, machine learning, and blockchain 
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
 - 🚀 Always building, learning, and trying something new  
 
@@ -93,7 +93,7 @@
 
 ## 📈 What I'm Working On
 - Enhancing my full-stack skills  
-- Learning more about ML and cryptocurrency within SWE  
+- Learning more about machine learning and blockchain  
 - Building projects to grow my portfolio  
 
 ---
