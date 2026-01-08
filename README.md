@@ -17,7 +17,8 @@
 - 💻 CS Freshman @ Purdue  
 - 🌱 Learning full stack development, machine learning, and blockchain 
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
-- 🚀 Always building, learning, and trying something new  
+- 🚀 Always building, learning, and trying something new
+- 🏆 Love playing tennis, watching sports, and playing poker
 
 ---
 
