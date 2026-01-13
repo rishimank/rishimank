@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <strong>I'm Rishi Mankala — a freshman studying Computer Science at Purdue University, always trying to learn new things!</strong>
+  <strong>I'm Rishi Mankala — a student studying Computer Science at Purdue University, always trying to learn new things!</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-- 💻 CS Freshman @ Purdue  
+- 💻 CS @ Purdue  
 - 🌱 Learning full stack development, machine learning, and blockchain 
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
 - 🚀 Always building, learning, and trying something new
