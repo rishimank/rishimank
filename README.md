@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <strong>I'm Rishi Mankala — a student studying Computer Science at Purdue University, always trying to learn new things!</strong>
+  <strong>I'm Rishi Mankala — a student studying Computer Science and Economics at Purdue University, always trying to learn new things!</strong>
 </p>
 
 <p align="center">
@@ -95,8 +95,8 @@
 ## 📈 What I'm Working On
 - Enhancing my full-stack skills  
 - Learning more about machine learning  
-- Building Spring Boot projects (right now) ❗  
+- Building Spring Boot projects (right now) 👀 👀
 
 ---
 
-<p align="center">Thanks for stopping by! ⭐️</p>
+<p align="center">Thanks for stopping by, feel free to reach out! ⭐️</p>
