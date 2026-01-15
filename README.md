@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 - 💻 CS @ Purdue  
-- 🌱 Learning full stack development, machine learning, and blockchain 
+- 🌱 Learning full stack development, machine learning, and Spring Boot 
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
 - 🚀 Always building, learning, and trying something new
 - 🏆 Love playing tennis, watching sports, and playing poker
@@ -94,8 +94,8 @@
 
 ## 📈 What I'm Working On
 - Enhancing my full-stack skills  
-- Learning more about machine learning and blockchain  
-- Building projects to grow my portfolio  
+- Learning more about machine learning  
+- Building Spring Boot projects (right now) ❗  
 
 ---
 
