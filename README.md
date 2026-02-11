@@ -95,7 +95,7 @@
 ## 📈 What I'm Working On
 - Enhancing my full-stack skills  
 - Learning more about machine learning  
-- Building Spring Boot projects (right now) 👀 👀
+- Building Spring Boot projects
 
 ---
 
