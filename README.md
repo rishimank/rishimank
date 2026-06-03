@@ -18,7 +18,7 @@
 - 🌱 Learning full stack development, machine learning, and Spring Boot 
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
 - 🚀 Always building, learning, and trying something new
-- 🏆 Love playing tennis, watching sports, and playing poker
+- 🏆 Love playing tennis, watching sports, and hanging out with friends
 
 ---
 
