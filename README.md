@@ -15,8 +15,9 @@
 ## 🎯 About Me
 
 - 💻 CS @ Purdue  
-- 🌱 Learning full stack development, machine learning, and Spring Boot 
-- 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**  
+- 🌱 Focusing on RAG, AWS, and more
+- 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
+- 🌐 Website: https://rishimank.github.io/
 - 🚀 Always building, learning, and trying something new
 - 🏆 Love playing tennis, watching sports, and hanging out with friends
 
@@ -89,13 +90,6 @@
 </div>
 
 </div>
-
----
-
-## 📈 What I'm Working On
-- Enhancing my full-stack skills  
-- Learning more about machine learning  
-- Building Spring Boot projects
 
 ---
 
