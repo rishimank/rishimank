@@ -18,7 +18,7 @@
 - 🌱 Focusing on RAG, AWS, and more
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
 - 🌐 Website: https://rishimank.github.io/
-- 🚀 Currently developing BoilerCheck
+- 🚀 Currently developing BoilerCheck and Guardrail
 - 🏆 Love playing tennis, watching sports, and hanging out with friends
 
 ---
