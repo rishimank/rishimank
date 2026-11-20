@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <strong>I'm Rishi Mankala — a student studying Computer Science and Economics at Purdue University, always trying to learn new things!</strong>
+  <strong>I'm Rishi Mankala — a student studying Computer Science at Purdue University, always trying to solve meaningful problems!</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 - 💻 CS @ Purdue  
 - 🌱 Focusing on RAG, AWS, and more
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
-- 🌐 Website: https://rishimank.github.io/
 - 🚀 Currently developing Quantix
 - 🏆 Love playing tennis, watching sports, and hanging out with friends
 
@@ -42,8 +41,6 @@
 <!-- Docker -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="docker logo" />
 
-<!-- Flask -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="flask logo" />
 
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="git logo" />
@@ -63,14 +60,10 @@
 <!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="nodejs logo" />
 
-<!-- Next.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="nextjs logo" />
 
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="python logo" />
 
-<!-- Pandas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="pandas logo" />
 
 <!-- PyTorch -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" style="padding:10px; background:#f7f7f7; border-radius:16px;" alt="pytorch logo" />
