@@ -15,10 +15,10 @@
 ## 🎯 About Me
 
 - 💻 CS @ Purdue  
-- 🌱 Focusing on RAG, AWS, and more
+- 🌱 Interested in distributed systems, databases, cloud computing, and agents.
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
-- 🚀 Currently developing Quantix
-- 🏆 Love playing tennis, watching sports, and hanging out with friends
+- 🚀 Currently developing mankDB, a custom distributed database engine
+- 🏆 I enjoy playing tennis/pickleball and watching all types of sports
 
 ---
 
