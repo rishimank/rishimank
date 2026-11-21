@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 - 💻 CS @ Purdue  
-- 🌱 Interested in distributed systems, databases, cloud computing, and agents.
+- 🌱 Interested in distributed systems, databases, cloud computing, and AI native applications.
 - 📫 Email: **rishimankala123@gmail.com** | **rmankala@purdue.edu**
 - 🚀 Currently developing mankDB, a custom distributed database engine
 - 🏆 I enjoy playing tennis/pickleball and watching all types of sports
